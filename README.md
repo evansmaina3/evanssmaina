@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Evans
-- 👀 I’m interested in Front-End Engineering
-- 🌱 I’m currently learning Front=End Engineering
+- Hi,I’m Evans Maina 🚀
+- I’m a Frontend Engineer🧑‍💻🚀
+- Believer in Positivity and Creativity ✨
 
 
 <!---
